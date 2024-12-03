@@ -1,0 +1,11 @@
+year,km_driven,fuel,seller_type,transmission,owner,engine,max_power,seats,torque
+2010,168000,Diesel,Individual,Manual,First Owner,2498.0,112.0,7.0,180.0
+2017,25000,Diesel,Individual,Manual,First Owner,1497.0,108.0,5.0,260.0
+2007,218463,Petrol,Individual,Automatic,First Owner,1799.0,130.0,5.0,172.0
+2015,173000,Diesel,Individual,Manual,First Owner,1498.0,98.0,5.0,200.0
+2011,70000,Petrol,Individual,Manual,Second Owner,1172.0,65.0,5.0,30.0
+2019,12584,Diesel,Dealer,Manual,First Owner,2498.0,105.0,6.0,247.0
+2011,35000,Petrol,Individual,Manual,First Owner,995.0,62.0,5.0,90.3
+2012,70000,Petrol,Individual,Manual,Second Owner,1197.0,85.0,5.0,114.0
+2011,72000,Petrol,Individual,Manual,Second Owner,796.0,46.0,5.0,62.0
+2016,58000,Diesel,Individual,Manual,First Owner,1582.0,126.0,5.0,259.9
